@@ -1,0 +1,38 @@
+[
+    {
+        "id" : 1,
+        "name": "Mr. Raju",
+        "authorImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlsA0UtHCFY7LrjypxgGvo9lVXgjtRFi1UKA&usqp=CAU",
+        "readTime": 6,
+        "publishDate": "Apr 05(4 days ago)",
+        "title": "What is Front-End Development?",
+        "coverImage": "https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg"
+    },
+    {
+        "id" : 2,
+        "name": "Mrs. Setara",
+        "authorImage": "https://img.freepik.com/free-photo/handsome-confident-smiling-man-with-hands-crossed-chest_176420-18743.jpg",
+        "readTime": 9,
+        "publishDate": "Apr 02(7 days ago)",
+        "title": "What is Back-End Development?",
+        "coverImage":"https://www.itprotoday.com/sites/itprotoday.com/files/programming%20evolution.jpg"
+    },
+    {
+        "id" : 3,
+        "name": "Mina Mostofa",
+        "authorImage": "https://img.freepik.com/free-photo/serious-strict-bearded-elderly-man-points-index-finger_273609-52466.jpg",
+        "readTime": 7,
+        "publishDate": "Mar 10(4 days ago)",
+        "title": "What is Full-Stack Development?",
+         "coverImage":"https://img.freepik.com/free-photo/hooded-computer-hacker-stealing-information-with-laptop_155003-1918.jpg?size=626&ext=jpg&ga=GA1.1.1132292446.1680281330&semt=sph"
+    },
+    {
+        "id" : 4,
+        "name": "Jhankar Mahbub",
+        "authorImage": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg",
+        "readTime": 10,
+        "publishDate": "Mar 27(12 days ago)",
+        "title": "The Difference Between Front-End and Back-End Developer",
+        "coverImage":"https://www.springboard.com/blog/wp-content/uploads/2022/08/programming-jobs-salaries-800x496.png"
+    }
+]

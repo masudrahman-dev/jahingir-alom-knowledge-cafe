@@ -1,0 +1,12 @@
+.container-divide{
+   display: grid;
+   grid-template-columns: 3fr 1.5fr;
+}
+.container-style{
+  background-color: aliceblue;
+  color: blue;
+  padding: 20px;
+  border: 2px solid green;
+  border-radius: 10px;
+  margin-left: 20px;
+}

@@ -1,0 +1,14 @@
+.blog-data{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.img{
+    border-radius: 50%;
+}
+.img-size{
+    width: 100%;
+    height: 440px;
+    /* height: 440px;
+    width: 876px; */
+}
